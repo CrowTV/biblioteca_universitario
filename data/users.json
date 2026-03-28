@@ -1,0 +1,28 @@
+[
+    {
+        "type": "professor",
+        "name": "Ana",
+        "last_name": "García",
+        "email": "ana.garcia@universidad.edu",
+        "phone_number": "123456789",
+        "career": "Matemáticas",
+        "faculty": "Ciencias",
+        "CI": "12345678",
+        "direcction": "Calle 1, Ciudad",
+        "age": 45
+    },
+    {
+        "type": "student",
+        "name": "Luis",
+        "last_name": "Pérez",
+        "email": "luis.perez@universidad.edu",
+        "phone_number": "987654321",
+        "career": "Ingeniería",
+        "faculty": "Tecnología",
+        "CI": "87654321",
+        "direcction": "Avenida 2, Ciudad",
+        "age": 20,
+        "semester": 4,
+        "professor": "Ana García"
+    }
+]
